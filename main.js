@@ -1,5 +1,3 @@
-
-
 let cantidad = document.getElementById('cantidad');
 let boton = document.getElementById('generar');
 let contrasena = document.getElementById('contrasena');
